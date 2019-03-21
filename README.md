@@ -48,7 +48,7 @@ Hello World!
 
 Confirm everything is working by running the `learn` command. You should see that all tests are passing (e.g. no red error text). 
 
-Note: When you write code, the case (uppercase/lowercase) of characters matters, and so your test will not pass unless you print "Hello World!" exactly. 
+Note: When you write code, the case (uppercase/lowercase) of characters matters, and so your test will not pass unless you print "Hello World!" exalectly. 
 
 ### Submitting Your Lab
 
